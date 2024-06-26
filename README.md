@@ -1,7 +1,7 @@
 # Housing-insight-analysis
 Prof. Buddhanand Banerjee
 
-**Objective**:<br> Utilize advanced regression techniques and time series modeling to analyze socio-economic factors affecting housing prices.</br><br></br>
+**Objective**:<br> Utilize advanced regression techniques and time series modeling to analyze socio-economic factors affecting housing prices.</br>
 **Dataset Source**:<br>Boston Housing Dataset </br> 
 **Description**: The dataset includes various socio-economic metrics such as crime rate, property tax rates, and student-teacher ratios, which impact housing prices.
 Methodology
